@@ -1,10 +1,19 @@
-# Virtual Environment and Dependancies
+# Welcome to Lurni.
 
-## Initialising virtual environment
+Contents:
+
+- [Virtual Environment and Dependancies](#virtual-environment-and-dependancies)
+- [Run the Django App](#run-the-django-app)
+
+---
+
+## Virtual Environment and Dependancies
+
+### Initialising virtual environment
 
 `py -m venv .venv`
 
-## Activating virtual environment
+### Activating virtual environment
 
 Git bash/Linux:
 
@@ -14,12 +23,16 @@ Powershell:
 
 `.venv\Scripts\activate`
 
-## Installing dependancies
+### Installing dependancies
 
 `pip install requirements.txt`
 
-## Rewriting dependancies
+### Rewriting dependancies
 
 `pip freeze > requirements.txt`
 
 (warning: use with caution. When possible, add dependacies manually to requirements.txt)
+
+## Run the Django App
+
+`python manage.py runserver`
