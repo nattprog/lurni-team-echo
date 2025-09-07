@@ -21,6 +21,7 @@ In this digital age, university students often struggle to find reliable academi
 This is why Lurni is introduced. Lurni is a homophone for “Learn-e”, indicating that students gain knowledge more conveniently online. Through Lurni, university students can access a free and interactive forum to discuss chosen subjects with tutors or even seniors. By having the support from tutors or seniors, students feel less stressed in their studies. Not just that, tutoring sessions are also available on the website to provide a one-to-one learning experience. By signing up for the premium version, students can gain access to the resources uploaded by the tutor. The platform also introduces gamification features like streaks, reward systems and quizzes to help students consolidate their knowledge in a fun and engaging way without feeling bored.
 
 # Developement Guide
+Figma - https://www.figma.com/proto/GNouidC72nL59fBKhkHJFg/Untitled?node-id=0-1&t=DL77jGokYPSR8YVp-1
 
 ## Virtual Environment and Dependancies
 
